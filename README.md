@@ -1,2 +1,1 @@
-Test Repo
-New Text
+# RS School
