@@ -1,7 +1,5 @@
 # Andrey Zarapin
 
-![Selfphoto](https://disk.yandex.ru/i/vdN_wmdh4oAfAw)
-
 ## Frontend Developer
 
 ### Contact information
@@ -34,8 +32,7 @@ Having started my career as a freelance no-code designer, and I came to understa
 
 ### Languages
 
-- English ![Englishtest](https://disk.yandex.ru/d/MbNrB_xodpe4Jg)
-
-* French
-* German
-* Russian
+- English (B2)
+- French
+- German
+- Russian
