@@ -1,6 +1,6 @@
 # Andrey Zarapin
 
-[Selfphoto](https://disk.yandex.ru/i/vdN_wmdh4oAfAw)
+![Selfphoto](https://disk.yandex.ru/i/vdN_wmdh4oAfAw)
 
 ## Frontend Developer
 
