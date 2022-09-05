@@ -1,14 +1,14 @@
 # Andrey Zarapin
 
-![Selfphoto](https://disk.yandex.ru/i/vdN_wmdh4oAfAw)
+[Selfphoto](https://disk.yandex.ru/i/vdN_wmdh4oAfAw)
 
 ## Frontend Developer
 
 ### Contact information
 
-\*Phone: +7 996 979 98 35
-*Email: strkzvr@gmail.com
-*Telegram: @strkzvr
+- Phone: +7 996 979 98 35
+- Email: strkzvr@gmail.com
+- Telegram: @strkzvr
 
 ## Briefly About Myself
 
