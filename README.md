@@ -1,5 +1,5 @@
-
-https://strkzvr.github.io/rsschool-cv/cv
+#
+https://strkzvr.github.io/rsschool-cv/
 
 
 
